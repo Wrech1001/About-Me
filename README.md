@@ -5,8 +5,9 @@ More fact about me:
 
 🔭 I’m currently working on C++ and JS
 
-🌱 I’m currently learning C++
+🌱 I’m currently learning JS
 
 📫 How to be friend with me: You can add me on Discord :)
 
 😄 Other name: Wrech
+
